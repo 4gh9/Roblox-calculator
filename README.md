@@ -13,6 +13,6 @@ Very Easy And Simple To Use...
 <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
 
 -----
+## SPOTIFY PLAYLIST:
 
-
-src="https://open.spotify.com/embed/playlist/5Z4qlsrwUYk0anw0bHYHTE?utm_source=generator&theme=0"
+https://open.spotify.com/playlist/5Z4qlsrwUYk0anw0bHYHTE?si=0672c6292b3a47f2
