@@ -13,3 +13,7 @@ Very Easy And Simple To Use...
 <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
 
 -----
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5Z4qlsrwUYk0anw0bHYHTE?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
