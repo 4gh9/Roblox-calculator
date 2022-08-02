@@ -15,4 +15,4 @@ Very Easy And Simple To Use...
 -----
 
 
-https://open.spotify.com/embed/playlist/5Z4qlsrwUYk0anw0bHYHTE?utm_source=generator&theme=0
+<img src="https://open.spotify.com/embed/playlist/5Z4qlsrwUYk0anw0bHYHTE?utm_source=generator&theme=0"
